@@ -5,7 +5,7 @@
 ## Requirements
 
  - [yarn](https://yarnpkg.com)
- - [jest] (https://jestjs.io)
+ - [jest](https://jestjs.io)
  
  
 ## Setup
